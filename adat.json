@@ -1,0 +1,28 @@
+{
+  "emberekLISTA": [
+    {
+      "id": "2",
+      "nev": "Ádám",
+      "kor": 42,
+      "nem": false
+    },
+    {
+      "id": "5",
+      "nev": "Ádám",
+      "kor": 62,
+      "nem": false
+    },
+    {
+      "id": "6",
+      "nev": "Ádám",
+      "kor": 82,
+      "nem": false
+    },
+    {
+      "id": "4f02",
+      "nev": "Adfdsfds",
+      "kor": "13",
+      "nem": false
+    }
+  ]
+}
